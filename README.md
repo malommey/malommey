@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TMO 
+- 👋 Hi, I’m @Taiye_mutiu_olayinka(TMO) 
 - 👀 I’m interested in changing  the world  with code
 - 🌱 I’m currently learning Javascript & react js
 - 💞️ I’m looking to collaborate on web3 project
